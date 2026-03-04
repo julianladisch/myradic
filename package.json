@@ -1,0 +1,10 @@
+{
+  "name": "myradic",
+  "version": "0.0.1",
+  "description": "Test module with an AGPL licensed transitive dependency: radic (MIT) -> pm2 (AGPL)",
+  "license": "MIT",
+  "dependencies": {
+    "radic": "^0.7.0",
+    "react": "^19.2.4"
+  }
+}
