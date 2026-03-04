@@ -1,7 +1,7 @@
 {
   "name": "myradic",
   "version": "0.0.1",
-  "description": "Test module with an AGPL licensed transitive dependency: itsy (MIT) -> pm2 (AGPL)",
+  "description": "Test module with an AGPL licensed transitive dependency: lx-web (ISC) -> pm2 (AGPL)",
   "license": "MIT",
   "dependencies": {
     "lx-web": "^1.0.7",
